@@ -1,0 +1,8 @@
+# This file contains additional build requirements that did not get
+# picked up automatically. One name per line, no whitespace.
+rubygem-domain_name
+rubygem-unf
+rubygem-unf_ext
+rubygem-mime-types
+rubygem-multipart-post
+lsof
