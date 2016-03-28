@@ -1,4 +1,4 @@
 # File auto-generated with 'Watchfile generator'
-# 2016-02-25 23:03:08.341489
-# {'~>0.8', '<0.10'}
-watchurl=https://rubygems.org/gems/faraday/versions/(0\.[0-9](\.[0-9a-zA-Z]+)?)
+# 2016-03-23 21:32:46.111963
+# {'>=0.8', '<0.10', '~>0.8'}
+watchurl=https://rubygems.org/gems/faraday/versions/(0\.[0-9](?:\.[0-9a-zA-Z]+)*)
